@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=bD-BdZ376_c
+
+https://pub.dev/packages/flutter_facebook_login
+
+ANDROID
+https://developers.facebook.com/docs/facebook-login/android
+
+IOS
+https://developers.facebook.com/docs/facebook-login/ios
+
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\geral\.android\debug.keystore" | "C:\Program Files\OpenSSL-Win64\bin\openssl" sha1 -binary | "C:\Program Files\OpenSSL-Win64\bin\openssl" base64
